@@ -1,4 +1,4 @@
-# Reinforcement-Learning-Design-a-Coin-Collection-Game
+# Reinforcement Learning/ Design a coin collection game from scratch using standard Q-learning
 
 Consider an n * n environment with locations (i; j). A miner begins at location (1; 1) and can travel UP, LEFT, DOWN, or RIGHT. 
 
